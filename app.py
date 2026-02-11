@@ -46,7 +46,7 @@ st.markdown("""
     #MainMenu {visibility: hidden;}
     footer {visibility: hidden;}
     .stDeployButton {display: none !important;}
-    [data-testid="stToolbar"] {display: none !important;}
+    [data-testid="stToolbar"] [data-testid="stToolbarActions"] {display: none !important;}
 
     /* ── Sidebar Styling ── */
     [data-testid="stSidebar"] {
