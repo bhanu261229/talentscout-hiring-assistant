@@ -277,9 +277,7 @@ A low-temperature prompt that classifies messages into: `positive`, `neutral`, `
 
 ---
 
-## 📄 License
 
-This project is licensed under the MIT License.
 
 ---
 
